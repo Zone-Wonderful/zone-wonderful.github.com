@@ -4,7 +4,7 @@ title: Home
 landing-title: Welcome my blog
 description: 
 image: 
-author: 
+author: Zone-Wonderful
 nav-menu: 
 ---
 
