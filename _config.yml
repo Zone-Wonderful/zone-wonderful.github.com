@@ -12,7 +12,7 @@ email: zoneofwonerful@163.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author: Zone-Wonderful
+author: 
 street_address: 朝阳区
 city: 北京
 state: 天安门
