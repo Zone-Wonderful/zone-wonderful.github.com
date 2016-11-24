@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Zone-Wonderful的博客
+tagline:自己选择的路，跪着也要走下去！
 
 defaults:
   -
@@ -37,9 +37,9 @@ defaults:
 
 ##### Menu
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  主页: /
+  文档: /archives
+  关于: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -79,8 +79,8 @@ mathjax: false      #enable mathjax if true
 
 #### Author information
 author:
-  name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
+  name: Zone-Wonderful      ## e.g. wuchong Author name
+  intro_line1:  "Hello ,I'm Zone-Wonderful."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
