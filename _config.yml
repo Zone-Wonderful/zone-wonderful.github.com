@@ -1,10 +1,10 @@
 
 title: Zone-Wonderful的博客
 source:       .
-description: ./_site
-plugins:      ./_plugins
-layouts:      ./_layouts
+destination:  ./_site
+
 paginate:     10
+gems: [jekyll-paginate]
 
 # Handling Reading
 safe:         false
