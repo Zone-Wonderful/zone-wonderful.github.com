@@ -27,7 +27,9 @@ excerpt_separator: "\n\n"
 
 # Serving
 detach:     false
-baseurl:  "https://zone-wonderful.github.io/" # does not include hostname
+port:         4000
+host:         127.0.0.1
+baseurl:   # does not include hostname
 
 
 # Outputting
