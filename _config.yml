@@ -1,8 +1,6 @@
 
 title: Zone-Wonderful的博客
 source:       .
-destination:  ./_site
-
 paginate:     10
 gems: [jekyll-paginate]
 
@@ -24,14 +22,12 @@ unpublished:  false
 # Conversion
 markdown:     kramdown
 
-lsi:          false
+lsi:       false
 excerpt_separator: "\n\n"
 
 # Serving
-detach:       false
-port:         4000
-host:         127.0.0.1
-baseurl:      "https://zone-wonderful.github.io/" # does not include hostname
+detach:     false
+baseurl:  "https://zone-wonderful.github.io/" # does not include hostname
 
 
 # Outputting
