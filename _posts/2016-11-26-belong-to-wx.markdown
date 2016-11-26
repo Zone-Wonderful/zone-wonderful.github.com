@@ -9,5 +9,5 @@ category: "专属-艾格里斯"
 	该怎么做呢？
 	
 </p>
-	![](<img src="images/cnt-left.jpg"/>)
+	![](https://github.com/Zone-Wonderful/zone-wonderful.github.com/blob/master/images/cnt-left.jpg)
 	
