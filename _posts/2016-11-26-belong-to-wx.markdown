@@ -9,5 +9,5 @@ category: "专属-艾格里斯"
 	该怎么做呢？
 	
 </p>
-	(<img src="images/cnt-left.jpg"/>)
+	![](<img src="images/cnt-left.jpg"/>)
 	
