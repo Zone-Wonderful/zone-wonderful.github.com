@@ -9,5 +9,6 @@ category: "专属-艾格里斯"
 	该怎么做呢？
 	
 </p>
+	<p>
 	![cnt-left](images/cnt-left.jpg)
-	
+	</p>
