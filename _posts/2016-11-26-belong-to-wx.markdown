@@ -25,5 +25,6 @@ category: "艾格里斯"
 	
 	展翅飞翔，O(∩_∩)O哈哈~
 	<img src="http://b326.photo.store.qq.com/psb?/V12ZezeP0IX3B5/QPq6K062pUrvp8g8IM8iEHAZ8AGDI4H19P3JrZh3vr8!/b/dE5qV8ISEQAA&bo=IANYAgAAAAABB1k!&rf=viewer_4"/>
-	
 	</p>
+	![custom](images/blog.jpg) 
+	
