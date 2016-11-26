@@ -14,5 +14,5 @@ category: "艾格里斯"
 </p>
 <p>
 	这是谁啦，这么萌
-	<img src="http://b284.photo.store.qq.com/psb?/V12ZezeP1elImz/XwoR5w1mMpbgji8D0P0Az78hxwliHvY3Nt.4ubwn5fA!/b/dBwBAAAAAAAA&bo=7gLoAwAAAAAFByM!&rf=viewer_4";
+	<img src="http://b284.photo.store.qq.com/psb?/V12ZezeP1elImz/XwoR5w1mMpbgji8D0P0Az78hxwliHvY3Nt.4ubwn5fA!/b/dBwBAAAAAAAA&bo=7gLoAwAAAAAFByM!&rf=viewer_4"/>
 </p>
