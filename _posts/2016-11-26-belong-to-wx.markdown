@@ -10,5 +10,5 @@ category: "专属-艾格里斯"
 	
 </p>
 	<p>
-	![cnt-left](images/cnt-left.jpg)
+	![测试](images/cnt-left.jpg)
 	</p>
