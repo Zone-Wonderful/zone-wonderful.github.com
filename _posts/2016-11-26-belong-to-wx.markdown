@@ -7,8 +7,8 @@ category: "专属-艾格里斯"
 <h2 id= "title" > 只属于她的...</h2>
 <p>
 	该怎么做呢？
-	<img src="images/cnt-left.jpg"/>
+	<img src="images/cnt-left.jpg" width="100px" height="100px"/>
 </p>
 <p>
-	<img  src="images/cnt-left.jpg"/>
+	<img  src="images/cnt-left.jpg" width="100px" height="100px"/>
 </p>
