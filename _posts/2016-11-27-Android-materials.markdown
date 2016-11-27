@@ -2,7 +2,7 @@
 layout: post
 title: 一些常用的资料地址
 date: 2016-11-27 21:44
-categor: "Android"
+category: "资料"
 ---
 <h2>持续更新中...</h2>
 <a href="http://blog.csdn.net/qq_17766199/article/details/52863741">一些你需要知道的布局优化技巧</a>
