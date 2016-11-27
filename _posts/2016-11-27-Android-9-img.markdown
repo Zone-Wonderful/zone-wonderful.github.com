@@ -14,20 +14,24 @@ category: "Android"
 	<p>
 	① 如果一张图片不是.9图的话，图片的后缀名不要带有XX.9.png，这样在androidstudio上是非法，会报错。 
 ②如果一张图片是.9图，但如果这张图片不是完整的.9图，也就是说此图没有四个边的描点， Androidstudio仍然会报错。 报错内容如下：<br/>
-Cannot Resolve Symbol R.（该错误下所有R会变红，当然所有R变红还有很多其他原因，比如xml、style、value、colors中存在错误都会出现该现象，而在Android Studio中是 不会提示具体那个文件夹的，需要自己检查） 
+Cannot Resolve Symbol R.（该错误下所有R会变红，当然所有R变红还有很多其他原因，比如xml、style、value、colors中存在错误都会出现该现象，而在Android Studio中是 不会提示具体那个文件夹的，需要自己检查）<br/> 
 AAPT err: ERROR:9-patch image xxxx(该错误并不会被编译器标红，这一点很不友好！）看到这一提示就证明是.9图片的问题了。
 	</p>
 	<h4>在AndroidStudio中制作.9图</h4>
 	<p>
 	不需要从sdk中找制作工具，选中你想要修改成.9的图片，右键，菜单最下边会有个create.9-patch file选项，然后会弹出个弹框，让你选择.9图的保存位置，保存在对应的drawable目录下（不要放在mipmap目录下，会报错的）
 	然后直接在显示的图片上操作即可
+	<img src="http://img.blog.csdn.net/20161023164824078"/>
 	</p>
 	<h4>点9图边缘的区别</h4>
 	<p>
-	点9图的上边：横向拉伸时，只拉伸该区域
-	点9图的左边：纵向拉伸时，只拉伸该区域
-	点9图的下边：图片横向显示内容的区域
-	点9图的右边：图片纵向显示内容的区域
+	点9图的上边：横向拉伸时，只拉伸该区域<br/>
+	点9图的左边：纵向拉伸时，只拉伸该区域<br/>
+	点9图的下边：图片横向显示内容的区域<br/>
+	点9图的右边：图片纵向显示内容的区域<br/>
 	</p>
+	参考博客
+	<a href="http://blog.csdn.net/dengpeng0419/article/details/52902869">博客1</a>
+	<a href="http://www.jb51.net/article/32971.htm">博客2</a>
 </p>
 
